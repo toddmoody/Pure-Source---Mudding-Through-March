@@ -8,14 +8,14 @@ Single page / mobile first landing page specifically designed to support promoti
 
 Mobile first strategy was key due to using Google Ad-Words to generate traffic and targeting mobile devices.  
 
-Visually a simnple layout and friendtly UX was the goal. I wanted to utilise Flexbox for responsive breakpoints and also experiment with linear gradients and drop shadows to enhance the look & feel.
+A simnple visual layout and friendly UX were the main objectives (and ultimately to drive traffic to the main brand website).  I wanted to utilise Flexbox for responsive breakpoints and also experiment with linear gradients and drop shadows to enhance the look & feel.
 
 --- Technology ---
 
-HTML
-CSS
-Flexbox (responsive columns / breakpoints)
-Google Fonts 
+- HTML
+- CSS
+- Flexbox (responsive columns / breakpoints)
+- Google Fonts 
 
 --- Release Notes ---
 
